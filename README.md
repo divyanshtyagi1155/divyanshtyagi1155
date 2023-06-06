@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @divyanshtyagi1155
-- 👀 I’m interested in learning new technologies 
+- 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning C++ and data structure as well as learning frontend development.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me divyanshtyagi1155@gmail.com
